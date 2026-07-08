@@ -1,5 +1,5 @@
 # 💫 About Me:
-SUMA SREE RUNJALA<br>Aspiring Data Analyst | B.Tech CSE (AI & DS)<br>🔨 I'm currently working on: Building real-world Power BI dashboards and Data Analytics projects.<br>🌱 I'm currently learning: Power BI, SQL, Python and Data Analytics.<br>👯 I'm looking to collaborate on: Data Analytics and Power BI Projects.<br>🤝 I'm looking for help with: Advanced Power BI, DAX and Machine Learning.<br>💬 Ask me about: Power BI, Python,  Excel and Data Visualization.<br>⚡ Fun fact: I enjoy turning data into meaningful insights through interactive dashboards.
+**SUMA SREE RUNJALA**<br>Aspiring Data Analyst | B.Tech CSE (AI & DS)<br>🔨 I'm currently working on: Building real-world Power BI dashboards and Data Analytics projects.<br>🌱 I'm currently learning: Power BI, SQL, Python and Data Analytics.<br>👯 I'm looking to collaborate on: Data Analytics and Power BI Projects.<br>🤝 I'm looking for help with: Advanced Power BI, DAX and Machine Learning.<br>💬 Ask me about: Power BI, Python,  Excel and Data Visualization.<br>⚡ Fun fact: I enjoy turning data into meaningful insights through interactive dashboards.
 
 
 ## 🌐 Socials:
